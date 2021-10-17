@@ -6,6 +6,8 @@ _____________
 ### `npm install`
 _____________
 
+![image](https://user-images.githubusercontent.com/48511671/137615692-d1d48a8c-02a0-41de-84f5-c0e902acb7ad.png)
+
 _______________________________________________________________________________________________________
 # Getting Started with Create React App
 
