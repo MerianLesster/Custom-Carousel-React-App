@@ -1,9 +1,9 @@
-Developed by Merian Lesster for the Eyepax IT Consulting Frontend Practical Test
+Developed by Merian Lesster for a Frontend Practical Interview Test
 
 Inorder to run this application you will have to install node_modules.
 Therefore please run the below command to install node_modules :
 _____________
-    npm install
+### npm install
 _____________
 
 _______________________________________________________________________________________________________
